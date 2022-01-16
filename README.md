@@ -1,4 +1,4 @@
-# get-the-weather
+# get-the-weather-api
 
 ## Project setup
 ```
